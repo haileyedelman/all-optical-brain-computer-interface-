@@ -2,10 +2,12 @@
 
 ## **Leaders**
 Graduate Student: Hailey Edelman 
+
 Undergraduate Student: Maxwell Sharp
 
 ## **Collaborators**
 Grace Adams, Camila Romero, Daniel Woods
+
 Principal Investigator: Daniel Gonzales, PhD
 
 ## **Project Description**
