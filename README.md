@@ -69,6 +69,14 @@ For the purposes of Brainhack 2025 Conference timeline and duration, a sample da
 
 The platform developed using this sample data set will be modified to be used with the ASD project described above once data is collected. 
 
+https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link
+
+
+## **Onboarding**
+Please look through the MATLAB tutorial file (located in the google drive folder) to familiarize yourself with the data. 
+
+
+
 
 
 
