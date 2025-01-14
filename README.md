@@ -65,6 +65,12 @@ Participants will gain interdisciplinary expertise in neuroscience, computationa
 https://github.com/haileyedelman/all-optical-brain-computer-interface-.git
 
 ## **Project Data**
+For the purposes of Brainhack 2025 Conference timeline and duration, a sample data set will be utilized. This data set contains two-photon data from a study involving a mouse running on a wheel. There are two pistons near the face. When one piston shoots out, every time the animals whisks,the C1 whisker touches the piston. When the second piston is extended,the D1 whisker touches the piston during whisking. Only one piston is extended at a time. 
+
+The platform developed using this sample data set will be modified to be used with the ASD project described above once data is collected. 
+
+
+
 
 
 
