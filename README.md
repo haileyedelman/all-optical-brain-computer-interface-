@@ -13,8 +13,6 @@ Principal Investigator: Daniel Gonzales, PhD
 ## **Project Description**
 This project aims to use an all-optical BCI to study synaptic plasticity during sensorimotor learning in mice, providing insights into learning deficits in disease models. Using real-time imaging data from individual cortical neurons, animals will learn to modulate neural activity patterns and move a virtual cursor toward a target. In addition to the functional readout, the imaging also allows us to scan synaptic connections and observe how they change over the course of BCI training. This project will provide unprecedented insights into how subcellular synaptic processes drive skill acquisition. Once validated in healthy animals, this approach can be applied to disease models such as autism spectrum disorder (ASD) to uncover the aberrant synaptic mechanisms underlying learning deficits. This innovative combination of imaging, closed-loop neural control, and real-time adaptability makes the project uniquely positioned to inform therapeutic strategies and improve understanding of learning disorders.  
 
-### Image
-
 <img width="434" alt="Screenshot 2025-01-10 at 3 24 16 PM" src="https://github.com/user-attachments/assets/a49a6c3d-0505-4c46-b451-4bc297e9a1ad" />
 
 
