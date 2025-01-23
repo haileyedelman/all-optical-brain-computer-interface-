@@ -61,9 +61,6 @@ Participants will gain interdisciplinary expertise in neuroscience, computationa
 - Translating calcium transient features into actionable insights for studying synaptic plasticity and skill deficits in disease models.
 - Exploring neuroprosthetic technologies as tools for understanding and addressing disrupted synaptic processes in ASD and other disorders.
 
-## **Link to Project Repository**
-https://github.com/haileyedelman/all-optical-brain-computer-interface-.git
-
 ## **Project Data**
 For the purposes of Brainhack 2025 Conference timeline and duration, a sample data set will be utilized. This data set contains two-photon data from a study involving a mouse running on a wheel. There are two pistons near the face. When one piston shoots out, every time the animals whisks,the C1 whisker touches the piston. When the second piston is extended,the D1 whisker touches the piston during whisking. Only one piston is extended at a time. 
 
@@ -71,8 +68,6 @@ The platform developed using this sample data set will be modified to be used wi
 
 https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link
 
-## **Onboarding**
-Please look through the MATLAB tutorial file (located in the google drive folder) to familiarize yourself with the data. 
 
 
 
