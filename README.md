@@ -5,9 +5,6 @@ Graduate Student: Hailey Edelman
 
 Undergraduate Student: Maxwell Sharp
 
-## **Collaborators**
-Grace Adams, Camila Romero, Daniel Woods
-
 Principal Investigator: Daniel Gonzales, PhD
 
 ## **Project Description**
@@ -15,58 +12,30 @@ This project aims to use an all-optical BCI to study synaptic plasticity during 
 
 <img width="434" alt="Screenshot 2025-01-10 at 3 24 16 PM" src="https://github.com/user-attachments/assets/a49a6c3d-0505-4c46-b451-4bc297e9a1ad" />
 
-
 ## **Primary Objective**
 Develop a rapid, real-time neural decoding algorithm to control a 2D cursor based on calcium transient dynamics recorded using two-photon imaging in healthy animals, with plans to extend this approach to ASD models. 
 
-## **Basic Goals**
-- Motion Correction: Process two-photon microscopy imaging frames to correct for motion artifacts, ensuring stable spatial alignment of neurons across frames.
-- Image Segmentation: Develop tools to identify and segment neuronal regions of interest (ROIs) based on calcium signal activity.
-- Calcium Trace Extraction: Extract fluorescence traces from identified ROIs and identify calcium transients, which represent neuronal firing events.
-- Complete all of these steps within a <100 ms time period per imaging frame.
+## **Onboarding Documentation**
+### Get Started
+1. **Join our Discord channel**: Stay updated and collaborate with the team. Discord Channel Name: @2p_bci
+2. **Download MATLAB**: [MATLAB Download](https://www.mathworks.com/downloads/) (Free with VU email address).
+3. **Access The Google Drive Folder**: https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link
 
-## **Intermediate Goals**
-- Neural Decoding Algorithm: Develop an algorithm that translates calcium transient events into directional commands, enabling the real-time control of a 2D virtual cursor.
-- Event-Based Analysis: Quantify the frequency, amplitude, and timing of calcium transients to evaluate their relationship with task performance and cursor movements.
-
-## **Advanced Goals**
-- Dynamic Neural Manifold Representation: Enable real-time adaptation of the decoder by switching to different subpopulations of neurons or adjusting decoding parameters based on calcium transient patterns. Test how animals adapt to these changes.
-- Calcium Transient Clustering: Investigate spatial and temporal clustering of calcium transients among neurons during skill acquisition and how this relates to learning rates.
-
-## **Skills Needed to Contribute to This Project**
-### Data Processing:
-- Experience with motion correction for imaging data.
-- Familiarity with signal processing techniques for calcium transient detection and analysis.
-
-### Programming Languages:
-- Proficiency in MATLAB for fluorescence trace extraction and transient event analysis.
-- Python for building real-time neural decoding algorithms and visualization tools.
-
-### Data Interpretation:
-- Ability to interpret calcium transient data and link event features to decoder performance and task outcomes.
-
-## **What Participants Will Learn**
-Participants will gain interdisciplinary expertise in neuroscience, computational biology, and engineering:
-
-### Technical Skills:
-- Mastering motion correction, image segmentation, and fluorescence trace extraction from two-photon imaging data.
-- Identifying and analyzing calcium transients and their relationship to neuronal activity and task performance.
-- Developing real-time neural decoding algorithms and understanding their applications in BCIs.
-
-### Conceptual Knowledge:
-- Exploring synaptic plasticity and its implications for learning and memory in healthy and diseased models.
-- Investigating neural adaptation mechanisms using dynamic decoding frameworks.
-
-### Research Applications:
-- Translating calcium transient features into actionable insights for studying synaptic plasticity and skill deficits in disease models.
-- Exploring neuroprosthetic technologies as tools for understanding and addressing disrupted synaptic processes in ASD and other disorders.
-
-## **Project Data**
+**Note on Project Data**
 For the purposes of Brainhack 2025 Conference timeline and duration, a sample data set will be utilized. This data set contains two-photon data from a study involving a mouse running on a wheel. There are two pistons near the face. When one piston shoots out, every time the animals whisks,the C1 whisker touches the piston. When the second piston is extended,the D1 whisker touches the piston during whisking. Only one piston is extended at a time. 
 
 The platform developed using this sample data set will be modified to be used with the ASD project described above once data is collected. 
 
-https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link
+### **Useful Resources**
+1. Check out these published papers!
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11353153/
+https://www.sciencedirect.com/science/article/pii/S2666166721007164
+https://braininformatics.springeropen.com/articles/10.1186/s40708-022-00166-4
+
+## Prerequisites
+Ensure you have the following:
+- MATLAB 
+- Python
 
 
 
