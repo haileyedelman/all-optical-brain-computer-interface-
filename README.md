@@ -45,6 +45,7 @@ Ensure you have the following:
 ## **Steps for Each Analysis**
 
 ### 1. Preprocessing
+- Load Data
 - Filtering
 - Signal Normalization
 
