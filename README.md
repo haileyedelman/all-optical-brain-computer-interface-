@@ -29,9 +29,9 @@ The platform developed using this sample data set will be modified to be used wi
 ### **Useful Resources**
 1. Check out these published papers!
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11353153/
-https://www.sciencedirect.com/science/article/pii/S2666166721007164
-https://braininformatics.springeropen.com/articles/10.1186/s40708-022-00166-4
+[FluoAnalysis: An Open-Source MATLAB Toolbox for Analysis of Calcium Imaging Measurements of Oscillatory Astrocytic and Neuronal Networks] (https://pmc.ncbi.nlm.nih.gov/articles/PMC11353153/)
+[Pipeline for 2-photon all-optical physiology in mouse: From viral titration and optical window implantation to binarization of calcium transients] (https://www.sciencedirect.com/science/article/pii/S2666166721007164)
+[SmaRT2P: a software for generating and processing smart line recording trajectories for population two-photon calcium imaging] (https://braininformatics.springeropen.com/articles/10.1186/s40708-022-00166-4)
 
 ## Prerequisites
 Ensure you have the following:
