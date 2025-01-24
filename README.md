@@ -63,6 +63,7 @@ Ensure you have the following:
 - Spike Inference: use neural network outputs to dynamically update virtual cursor
 
 ## **Instructions to Begin Hacking**
+- Access [Google Drive Folder](https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link) and download 2P_split.mat and load_2P.m files in MATLAB. 
 
 
 
