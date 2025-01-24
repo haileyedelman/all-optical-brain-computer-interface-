@@ -16,7 +16,7 @@ This project aims to use an all-optical BCI to study synaptic plasticity during 
 Develop a rapid, real-time neural decoding algorithm to control a 2D cursor based on calcium transient dynamics recorded using two-photon imaging in healthy animals, with plans to extend this approach to ASD models. 
 
 ## **Onboarding Documentation**
-### Get Started
+### Getting Started
 1. **Join our Discord channel**: Stay updated and collaborate with the team. Discord Channel Name: @2p_bci
 2. **Download MATLAB**: [MATLAB Download](https://www.mathworks.com/downloads/) (Free with VU email address).
 3. **Access The Google Drive Folder**: [Google Drive Folder](https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link)
