@@ -56,7 +56,7 @@ Ensure you have the following:
 - Feature Mapping: identify representative image patch features (e.g. mean intensity, local variance)
 - Signal Localization: divide patches into groups based on signal state
 
-### 4. Training
+### 4. Analysis
 - Neural Network Design: design preliminary neural network (inputs / layers / # of neurons / outputs) using TensorFlow (Python Library)
 - Model Training: split 2P subset into train/test sets and use to train/evaluate the model’s performance (revise network design if necessary)
 - Spike Inference: use neural network outputs to dynamically update virtual cursor
