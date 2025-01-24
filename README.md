@@ -62,6 +62,7 @@ Ensure you have the following:
 - Model Training: split 2P subset into train/test sets and use to train/evaluate the model’s performance
 - Spike Inference: use neural network outputs to dynamically update virtual cursor
 
+## **Instructions to Begin Hacking**
 
 
 
