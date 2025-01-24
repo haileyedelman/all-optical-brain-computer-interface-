@@ -19,7 +19,7 @@ Develop a rapid, real-time neural decoding algorithm to control a 2D cursor base
 ### Get Started
 1. **Join our Discord channel**: Stay updated and collaborate with the team. Discord Channel Name: @2p_bci
 2. **Download MATLAB**: [MATLAB Download](https://www.mathworks.com/downloads/) (Free with VU email address).
-3. **Access The Google Drive Folder**: https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link
+3. **Access The Google Drive Folder**: [Google Drive Folder](https://drive.google.com/drive/folders/1rSHFr5iAfE-CrYZfGHz9_dFOTBRGZBaF?usp=share_link)
 
 **Note on Project Data**
 For the purposes of Brainhack 2025 Conference timeline and duration, a sample data set will be utilized. This data set contains two-photon data from a study involving a mouse running on a wheel. There are two pistons near the face. When one piston shoots out, every time the animals whisks,the C1 whisker touches the piston. When the second piston is extended,the D1 whisker touches the piston during whisking. Only one piston is extended at a time. 
@@ -28,6 +28,7 @@ The platform developed using this sample data set will be modified to be used wi
 
 ### **Useful Resources**
 1. Check out these published papers!
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11353153/
 https://www.sciencedirect.com/science/article/pii/S2666166721007164
 https://braininformatics.springeropen.com/articles/10.1186/s40708-022-00166-4
