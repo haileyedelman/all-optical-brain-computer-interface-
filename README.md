@@ -37,11 +37,29 @@ Check out these published papers!
 
 [SmaRT2P: a software for generating and processing smart line recording trajectories for population two-photon calcium imaging](https://braininformatics.springeropen.com/articles/10.1186/s40708-022-00166-4)
 
-## Prerequisites
+## **Prerequisites**
 Ensure you have the following:
 - MATLAB 
 - Python
 
+## **Steps for Each Analysis**
+
+### 1. Preprocessing
+- Filtering
+- Signal Normalization
+
+### 2. Registration
+- Tessellation: split image into non-overlapping polygon subregions to enable cluster analysis
+- Motion Correction
+
+### 3. Segmentation
+- Feature Mapping: identify representative image patch features (e.g. mean intensity, local variance)
+- Signal Localization: divide patches into groups based on signal state
+
+### 4. Training
+- Neural Network Design: design preliminary neural network (inputs / layers / # of neurons / outputs) using TensorFlow (Python Library)
+- Model Training: split 2P subset into train/test sets and use to train/evaluate the model’s performance (revise network design if necessary)
+- Spike Inference: use neural network outputs to dynamically update virtual cursor
 
 
 
