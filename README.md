@@ -27,7 +27,7 @@ For the purposes of Brainhack 2025 Conference timeline and duration, a sample da
 The platform developed using this sample data set will be modified to be used with the ASD project described above once data is collected. 
 
 ### **Useful Resources**
-1. Check out these published papers!
+Check out these published papers!
 
 [FluoAnalysis: An Open-Source MATLAB Toolbox for Analysis of Calcium Imaging Measurements of Oscillatory Astrocytic and Neuronal Networks](https://pmc.ncbi.nlm.nih.gov/articles/PMC11353153/)
 
